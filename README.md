@@ -2,10 +2,10 @@
 
 Olá! Sou um profissional em transição de carreira para a área de TI, movido pela paixão por tecnologia e pelo desejo constante de aprendizado.  
 
-## 👨‍🎓 Formação Acadêmica  
+## 👨‍🎓 Formação Acadêmica
+- **Cursando Análise e Desenvolvimento de Sistemas** no Instituto Federal do Rio Grande do Sul (IFRS) 
 - **Bacharelado em Administração**  
 - **MBA em Marketing**  
-- **Cursando Análise e Desenvolvimento de Sistemas** no Instituto Federal do Rio Grande do Sul (IFRS)  
 
 ## 👨‍💻 Experiência Profissional  
 Atualmente sou estagiário em Front-End na **Compass UOL**, onde estou aprimorando minhas habilidades no desenvolvimento de interfaces e contribuindo para projetos inovadores.  
