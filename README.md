@@ -14,7 +14,7 @@ Atualmente sou desenvolvedor na **Rota System**, onde contribuo com o desenvolvi
 Meu foco está em adquirir conhecimento e prática contínuos para alcançar excelência na minha carreira em TI. Busco desenvolver soluções eficientes e criar impacto positivo no setor, combinando minha experiência prévia em administração e marketing com as competências técnicas que venho construindo.  
 
 ## 🚀 Projetos  
-Aqui você encontrará repositórios que refletem meu aprendizado, experimentos e contribuições no mundo de desenvolvimento de sistemas.  
+Aqui você encontrará repositórios que refletem meu aprendizado, experimentos e contribuições no mundo da TI.  
 
 ## 🏆 Objetivo Profissional  
 Construir uma carreira sólida em desenvolvimento de software, focando em aprimoramento técnico constante e entrega de valor por meio da tecnologia.  
