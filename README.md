@@ -1,6 +1,6 @@
 # 💻 Vanley Basso 
 
-Olá! Sou desenvolvedor de software com formação em Administração, MBA em Marketing e graduação em Análise e Desenvolvimento de Sistemas. Tenho como objetivo unir tecnologia, design e visão de negócio para entregar soluções funcionais, eficientes e centradas no usuário.
+Olá! Sou desenvolvedor de software com formação em Análise e Desenvolvimento de Sistemas. Tenho como objetivo unir tecnologia, design e visão de negócio para entregar soluções funcionais, eficientes e centradas no usuário.
 
 ## 👨‍💻 Experiência Profissional
 
@@ -40,6 +40,7 @@ Aqui você encontrará repositórios que representam minha evolução como desen
 
 📧 **E-mail:** vanley_basso@hotmail.com  
 🔗 **LinkedIn:** [linkedin.com/in/vanleybasso](https://www.linkedin.com/in/vanleybasso)  
-🐙 **GitHub:** [github.com/vanleybasso](https://github.com/vanleybasso)
+🐙 **GitHub:** [github.com/vanleybasso](https://github.com/vanleybasso)  
+🌐 **Portfólio:** [vanleybasso.github.io](https://vanleybasso.github.io/)
 
 
