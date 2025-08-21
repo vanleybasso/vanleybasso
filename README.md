@@ -23,7 +23,7 @@ Olá! Sou desenvolvedor de software com formação em Análise e Desenvolvimento
 
 ## 🧠 Habilidades Técnicas
 
-- **Linguagens & Frameworks:** Python, SQL, JavaScript, TypeScript, React  
+- **Linguagens & Frameworks:** Python, SQL, JavaScript, TypeScript, Angular, React  
 - **Estilo & Design:** Tailwind CSS, HTML, CSS, UI/UX Design, Figma, Design System  
 - **Outros:** Git/GitHub, AWS Cloud, ERP, Kanban, Scrum
 
