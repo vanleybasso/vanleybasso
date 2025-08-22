@@ -23,9 +23,9 @@ Olá! Sou desenvolvedor de software com formação em Análise e Desenvolvimento
 
 ## 🧠 Habilidades Técnicas
 
-- **Linguagens & Frameworks:** Python, SQL, JavaScript, TypeScript, Angular, React, SAP Commerce Cloud  
+- **Linguagens & Frameworks:** Python, SQL, JavaScript, TypeScript, Angular, React 
 - **Estilo & Design:** Tailwind CSS, HTML, CSS, UI/UX Design, Figma, Design System  
-- **Outros:** Git/GitHub, AWS Cloud, ERP, Kanban, Scrum
+- **Outros:** Git/GitHub, AWS Cloud, SAP Commerce Cloud, ERP, Kanban, Scrum
 
 ## 📄 Certificações
 - 📜 **AWS Cloud Practitioner**
