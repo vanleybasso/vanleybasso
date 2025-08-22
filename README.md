@@ -23,7 +23,7 @@ Olá! Sou desenvolvedor de software com formação em Análise e Desenvolvimento
 
 ## 🧠 Habilidades Técnicas
 
-- **Linguagens & Frameworks:** Python, SQL, JavaScript, TypeScript, Angular, React  
+- **Linguagens & Frameworks:** Python, SQL, JavaScript, TypeScript, Angular, React, SAP Commerce Cloud  
 - **Estilo & Design:** Tailwind CSS, HTML, CSS, UI/UX Design, Figma, Design System  
 - **Outros:** Git/GitHub, AWS Cloud, ERP, Kanban, Scrum
 
@@ -42,5 +42,4 @@ Aqui você encontrará repositórios que representam minha evolução como desen
 🔗 **LinkedIn:** [linkedin.com/in/vanleybasso](https://www.linkedin.com/in/vanleybasso)  
 🐙 **GitHub:** [github.com/vanleybasso](https://github.com/vanleybasso)  
 🌐 **Portfólio:** [vanleybasso.github.io](https://vanleybasso.github.io/)
-
 
