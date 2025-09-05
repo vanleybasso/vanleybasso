@@ -1,45 +1,46 @@
 # 💻 Vanley Basso 
 
-Olá! Sou desenvolvedor de software com formação em Análise e Desenvolvimento de Sistemas. Tenho como objetivo unir tecnologia, design e visão de negócio para entregar soluções funcionais, eficientes e centradas no usuário.
+Hello! I am a software developer with a degree in Systems Analysis and Development. My goal is to combine technology, design, and business vision to deliver functional, efficient, and user-centered solutions.
 
-## 👨‍💻 Experiência Profissional
+## 👨‍💻 Professional Experience
 
-### Desenvolvedor Júnior – Rota System *(jul/2025 - atual)*
-- Desenvolvimento com **Python** e **PostgreSQL** para manipulação de dados.
-- Criação de *views*, automações e suporte à infraestrutura de dados.
+### Developer & Data Infrastructure – Rota System *(Jul/2025 - Present)*
+- Development with **Python** and **PostgreSQL** for data manipulation.  
+- Creation of *views*, automations, and support for data infrastructure.
 
-### Consultor de Negócios TI – Elevor Softwares *(jun/2025 - jul/2025)*
-- Prospecção e apresentação estratégica do sistema ERP.
-- Mapeamento de necessidades e proposta de soluções tecnológicas.
+### IT Business Consultant – Elevor Softwares *(Jun/2025 - Jul/2025)*
+- Prospecting and strategic presentation of the ERP system.  
+- Needs mapping and proposal of technological solutions.
 
-### Estagiário em Desenvolvimento de Software – Compass UOL *(dez/2024 - mai/2025)*
-- Projetos em **JavaScript/React** com uso de **AWS Cloud**.
-- Atuação focada em **Front-End** e boas práticas de desenvolvimento.
+### Software Development Intern – Compass UOL *(Dec/2024 - May/2025)*
+- Projects in **JavaScript/React** using **AWS Cloud**.  
+- Front-End focused development and best practices.
 
-## 👨‍🎓 Formação Acadêmica
-- 🎓 **Análise e Desenvolvimento de Sistemas** – IFRS (2022 - 2025)
-- 🎓 **MBA em Marketing** – UNINTER (2021 - 2022)
-- 🎓 **Administração** – UNIDEAU (2015 - 2018)
+## 👨‍🎓 Education
+- 🎓 **Systems Analysis and Development** – IFRS (2022 - 2025)  
+- 🎓 **MBA in Marketing** – UNINTER (2021 - 2022)  
+- 🎓 **Business Administration** – UNIDEAU (2015 - 2018)  
 
-## 🧠 Habilidades Técnicas
+## 🧠 Technical Skills
 
-- **Linguagens & Frameworks:** Python, SQL, JavaScript, TypeScript, Angular, Vue, React 
-- **Estilo & Design:** Tailwind CSS, HTML, CSS, UI/UX Design, Figma, Design System  
-- **Outros:** Git/GitHub, AWS Cloud, SAP Commerce Cloud, ERP, Kanban, Scrum
+- **Languages & Frameworks:** Python, SQL, JavaScript, TypeScript, Angular, Vue, React  
+- **Style & Design:** Tailwind CSS, HTML, CSS, UI/UX Design, Figma, Design System  
+- **Others:** Git/GitHub, AWS Cloud, SAP Commerce Cloud, ERP, Kanban, Scrum  
 
-## 📄 Certificações
-- 📜 **AWS Cloud Practitioner**
+## 📄 Certifications
+- 📜 **AWS Cloud Practitioner**  
 
-## 🌟 Objetivo
-Busco crescer como desenvolvedor, contribuindo em projetos que aliam tecnologia, usabilidade e resultado. Meu diferencial é a capacidade de entender o negócio e transformar necessidades em soluções digitais de impacto.
+## 🌟 Objective
+I am looking to grow as a developer, contributing to projects that combine technology, usability, and results. My differential is the ability to understand business needs and transform them into impactful digital solutions.
 
-## 🚀 Projetos
-Aqui você encontrará repositórios que representam minha evolução como desenvolvedor: estudos, experimentos, projetos pessoais e contribuições.
+## 🚀 Projects
+Here you will find repositories that represent my evolution as a developer: studies, experiments, personal projects, and contributions.
 
 ---
 
 📧 **E-mail:** vanley_basso@hotmail.com  
 🔗 **LinkedIn:** [linkedin.com/in/vanleybasso](https://www.linkedin.com/in/vanleybasso)  
 🐙 **GitHub:** [github.com/vanleybasso](https://github.com/vanleybasso)  
-🌐 **Portfólio:** [vanleybasso.github.io](https://vanleybasso.github.io/)
+🌐 **Portfolio:** [vanleybasso.github.io](https://vanleybasso.github.io/)
+
 
